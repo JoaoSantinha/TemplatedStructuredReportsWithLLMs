@@ -1,0 +1,2 @@
+TEMPLATE = """I am a junior radiologist doing unstructured radiology reports and I need your help to create a structured radiology report. In the impression do not give non-specific descriptions in the impression, but instead tell me what you think about the findings. This is the unstructured report to be structured:
+"""
